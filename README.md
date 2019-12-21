@@ -1,3 +1,7 @@
+# Replaced by Tedd.RandomUtils
+This package has been replaced by Tedd.RandomUtils.
+NuGet: https://www.nuget.org/packages/Tedd.RandomUtils
+
 # Tedd.RandomExtensions
 Extension methods for System.Random that adds support for more datatypes.
 
